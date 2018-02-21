@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
@@ -17,27 +17,6 @@
   </ItemGroup>
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
-    <Folder Include="Areas\Admin\Models\" />
-    <Folder Include="Areas\Admin\Views\" />
-    <Folder Include="Areas\Certificate\Models\" />
-    <Folder Include="Areas\Certificate\Controllers\" />
-    <Folder Include="Areas\Certificate\Views\" />
-    <Folder Include="Areas\EntriesReformation\Models\" />
-    <Folder Include="Areas\EntriesReformation\Controllers\" />
-    <Folder Include="Areas\EntriesReformation\Views\" />
-    <Folder Include="Areas\EntryUser\Models\" />
-    <Folder Include="Areas\EntryUser\Controllers\" />
-    <Folder Include="Areas\EntryUser\Views\" />
-    <Folder Include="Areas\Reports\Controllers\" />
-    <Folder Include="Areas\Reports\Models\" />
-    <Folder Include="Areas\Reports\Views\" />
-    <Folder Include="Areas\ResultBook\Models\" />
-    <Folder Include="Areas\ResultBook\Controllers\" />
-    <Folder Include="Areas\ResultBook\Views\" />
-    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
